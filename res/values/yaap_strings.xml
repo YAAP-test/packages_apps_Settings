@@ -152,4 +152,8 @@
     <string name="back_height_title">Back Height</string>
     <string name="back_height_message">Amount of screen height used as a touchable region for back gesture</string>
 
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+
 </resources>
